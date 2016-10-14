@@ -3,6 +3,6 @@ function setup() {
 }
 
 function draw() {
-  rect( 50 , 50 , 50 , 50 );
+  rect( mouseX , mouseY , 50 , 50 , 50 , 50 );
 }
  
