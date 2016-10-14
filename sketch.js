@@ -3,6 +3,6 @@ function setup() {
 }
 
 function draw() {
-  triangle( mouseX , mouseY , 50 , 50 , 50 , 50 , 50 , 50 );
+  rect( mouseX , mouseY , 50 , 50 , 50 , 50 , );
 }
  
